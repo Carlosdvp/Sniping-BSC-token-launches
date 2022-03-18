@@ -17,3 +17,8 @@ https://testnet.bscscan.com/
 
 - Testnet Faucet
 https://testnet.binance.org/faucet-smart
+
+## Free Nodes
+
+- Testnet Websockets endpoint
+https://account.getblock.io/
